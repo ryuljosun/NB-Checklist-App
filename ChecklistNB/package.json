@@ -1,5 +1,5 @@
 {
-  "name": "baby-checklist-app",
+  "name": "nb-checklist-app",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -9,7 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "lucide-react": "^0.263.1",
+    "lucide-react": "0.263.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
